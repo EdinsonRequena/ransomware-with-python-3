@@ -22,10 +22,10 @@ The tutorial is under construction
 ### Author ✒️
 
 * **Edinson Requena** - *Sotftware, tutorial and documentation* 
+- [Youtube](https://www.youtube.com/channel/UCFXAiceHPFzk81Ooc25_QTg/featured)
 - [Medium](https://medium.com/@edinsonrequena)
 - [Instagram](https://instagram.com/edinsonrequena)
 - [Twitter](https://twitter.com/requenaea)
-- [Facebook](https://facebook.com/edinson.requena.9)
 
 ---
 from Venezuela with ❤️ for the world
