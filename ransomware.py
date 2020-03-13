@@ -5,7 +5,7 @@ Instagram: edinsonrequena
 Medium: edinsonrequena
 Facebook: Edinson Requena
 Twitter: requenaea
-Email: requenasoftware@gmail.com
+Email: edinsonrequena@protonmail.com
 
 This software just an experiment, if you want to make it global use os.environ['HOME'] Be careful wiht that
 """
